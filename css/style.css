@@ -1,0 +1,107 @@
+/* font-family: 'Roboto', sans-serif; */
+* {
+    box-sizing: border-box;
+}
+body, 
+html {
+    height: 100%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+img {
+    max-width: 100%;
+}
+lu {
+    margin: 0;
+    padding: 0;
+}
+ul>li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+6h {
+margin;0
+}
+p {
+    margin: 0;
+}
+.wrapper {
+    background-color: bisque;
+}
+.header {
+    background-color: aqua;
+    padding: 16px 0px 4px;
+    border-bottom: 2px solid #FFFFFF;
+}
+.container {
+    max-width: 1130px;
+    padding: 0px 5 px;
+    margin: 0 auto;
+}
+.header__container {
+max-width: 1370px;
+display: flex;
+column-gap: 30px;
+}
+.logo {
+    max-width: 187px;
+    min-height: 81px;
+}
+.logo__img {
+}
+.nav {
+}
+.nav__list {
+    display: flex;
+    column-gap: 34px;
+}
+.nav__item {
+}
+.nav__link {
+}
+.header__contacts {
+}
+.location {
+}
+.location::before {
+    content: "";
+    
+}
+.tel {
+}
+.main {
+}
+.hero {
+    background-color: blue;
+}
+.hero__main {
+}
+.title {
+}
+.hero__subtitle {
+}
+.hero__btns {
+}
+.btn {
+}
+.hero__call-to-action {
+}
+.advantages {
+}
+.advantage {
+}
+.advantage__img {
+}
+.advantage__desc {
+}
